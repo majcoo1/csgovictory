@@ -78,7 +78,7 @@ return [
 	|
 	*/
 
-	'key' => env('APP_KEY', '1meat4meat'),
+	'key' => env('APP_KEY', '6uPtmpHEDOWB97aI4wYCLHB8iLiRIeRN'),
 
 	'cipher' => MCRYPT_RIJNDAEL_128,
 

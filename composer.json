@@ -10,7 +10,8 @@
 		"barryvdh/laravel-debugbar": "2.0.*@dev",
 		"laracasts/generators": "dev-master",
 		"cviebrock/eloquent-sluggable": "dev-master",
-		"kanazaca/laravel-steam-auth": "1.1.*"
+		"kanazaca/laravel-steam-auth": "1.1.*",
+		"frozennode/administrator": "dev-master"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "~4.0",
