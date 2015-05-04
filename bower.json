@@ -1,0 +1,14 @@
+{
+  "name": "csgovictory",
+  "version": "0.1",
+  "homepage": "https://github.com/OSDDQD/csgovictory",
+  "description": "CSGO Lottery",
+  "main": "gulpfile.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
