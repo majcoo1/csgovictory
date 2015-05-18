@@ -145,6 +145,9 @@ return [
 		'App\Providers\EventServiceProvider',
 		'App\Providers\RouteServiceProvider',
 
+		/*Additional Plugins*/
+		'Frozennode\Administrator\AdministratorServiceProvider',
+
 	],
 
 	/*
